@@ -1,0 +1,3 @@
+To start building 
+-inside terminal enter "npx create-next-app keeper-app" 
+-use the command  "npm run build", and then "npm run dev"
